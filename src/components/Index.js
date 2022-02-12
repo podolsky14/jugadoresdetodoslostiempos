@@ -752,7 +752,7 @@ otable habilidad en el regate, gran juego aéreo a pesar de su corta estatura y 
         </div></div>
 
             <div className="side py-5">
- <div>
+
         <tr  className="d-flex justify-content-center pb-5"><h5>JUGADOR POR GENERACIÓN</h5></tr>
         
  <div className="d-flex flex-column align-items-center py-5">       
