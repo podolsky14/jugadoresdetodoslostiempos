@@ -753,15 +753,15 @@ otable habilidad en el regate, gran juego aéreo a pesar de su corta estatura y 
 
             <div className="side py-5">
 
-            <div className="d-flex flex-column align-items-center pb-5">
+            <div>
 <tr  className=" pb-3"><h5>JUGADOR POR GENERACIÓN</h5></tr>
 
-<th>1930-34</th>
-<tr>GIUSEPPE MEAZZA (ITA)</tr>
-<tr>MATTHIAS SINDELAR (AUS)</tr>
-<tr>LUIS MONTI (ARG)</tr>
-<tr>RAIMUNDO ORSI (ARG)</tr>
-<tr>GIOVANNI FERRARI (ITA)</tr>
+<th className="d-flex justify-content-center">1930-34</th>
+<tr className="d-flex justify-content-center">GIUSEPPE MEAZZA (ITA)</tr>
+<tr className="d-flex justify-content-center">MATTHIAS SINDELAR (AUS)</tr>
+<tr className="d-flex justify-content-center">LUIS MONTI (ARG)</tr>
+<tr className="d-flex justify-content-center">RAIMUNDO ORSI (ARG)</tr>
+<tr className="d-flex justify-content-center">GIOVANNI FERRARI (ITA)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
