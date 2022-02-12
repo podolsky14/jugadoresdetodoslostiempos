@@ -753,7 +753,7 @@ otable habilidad en el regate, gran juego aéreo a pesar de su corta estatura y 
 
             <div className="side py-5">
 
-        <tr  className="d-flex justify-content-center pb-5"><h5>JUGADOR POR GENERACIÓN</h5></tr>
+        <tr  className="d-flex justify-content-center"><h5>JUGADOR POR GENERACIÓN</h5></tr>
         
  <div className="d-flex flex-column align-items-center py-5">       
 .<th className="d-flex justify-content-center">1930-34</th>
@@ -919,7 +919,7 @@ otable habilidad en el regate, gran juego aéreo a pesar de su corta estatura y 
 
 
 
-              <tr  className="d-flex justify-content-center py-3"><h5 >EQUIPOS POR GENERACIÓN</h5></tr>
+              <tr  className="d-flex justify-content-center pb-3 pt-5"><h5 >EQUIPOS POR GENERACIÓN</h5></tr>
      <div >    
 <tr className="d-flex justify-content-center"> <th>1930-1934</th></tr>    
 <tr className="d-flex justify-content-center">COMBI</tr>
