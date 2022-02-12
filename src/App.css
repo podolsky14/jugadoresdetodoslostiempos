@@ -1,0 +1,192 @@
+.grid-container{
+  display: grid;
+  grid:
+  "header header" 100px
+  "main side" 1fr /
+  1fr minmax(300px, 350px)
+}
+
+.header{
+  grid-area: header;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white
+}
+
+.main{
+  grid-area: main;
+}
+
+.side{
+  grid-area: side;
+  color: goldenrod;
+  border-left: 1px solid white
+}
+
+
+.titulo{
+  color: goldenrod;
+}
+
+
+
+@media screen and (max-width: 950px){
+  .grid-container{
+      grid:
+      "header header" 100px
+      "main main" 3fr 
+      "side side" 6900px /
+      1fr
+  }
+
+  .bordelista{
+     border-bottom: 1px solid white
+  }
+
+
+}
+
+@media screen and (max-width: 530px){
+  .titulo{
+     font-size: 23px;
+  }
+}
+
+@media screen and (max-width: 414px){
+  .titulo{
+     font-size: 21px;
+  }
+}
+
+@media screen and (max-width: 375px){
+  .titulo{
+     font-size: 19px;
+  }
+}
+
+@media screen and (max-width: 336px){
+  .titulo{
+     font-size: 17px;
+  }
+}
+
+@media screen and (max-width: 308px){
+  .titulo{
+     font-size: 15px;
+  }
+}
+
+
+@media screen and (max-width: 354px){
+  .t3034{
+      font-size: 14px;
+  }
+  .t5054{
+      font-size: 15px;
+   }
+   .t5559{
+      font-size: 14px;
+   }
+   .t6064{
+      font-size: 13px;
+   }
+   .t6569{
+      font-size: 14px;
+   }
+   .t7074{
+      font-size: 14px;
+   }
+   .t0509{
+      font-size: 14px;
+   }
+}
+
+
+.principal{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.maradona{
+ border: 10px salmon solid;
+}
+
+.pele{
+  border: 10px silver solid;
+ }
+
+ .messi{
+  border: 10px goldenrod solid;
+ }
+
+
+
+@media (max-width: 660px) {
+    .principal{
+   padding-left: 25px!important;
+   padding-right: 25px !important;
+    }
+  }
+
+
+  @media (max-width: 460px) {
+    .principal{
+   padding-left: 5px!important;
+   padding-right: 5px !important;
+    }
+  }
+
+  @media (max-width: 588px) {
+    .titulo{
+   font-size: 24px !important;
+    }
+  }
+
+  @media (max-width: 488px) {
+    .titulo{
+   font-size: 22px !important;
+    }
+  }
+
+  @media (max-width: 417px) {
+    .titulo{
+   font-size: 20px !important;
+    }
+  }
+  
+  @media (max-width: 417px) {
+    .titulo{
+   font-size: 18px !important;
+    }
+  }
+
+  @media (max-width: 322px) {
+    .titulo{
+   font-size: 16px !important;
+    }
+  }
+
+  @media (max-width: 288px) {
+    .titulo{
+   font-size: 15px !important;
+    }
+  }
+
+  @media (max-width: 355px) {
+    .rumenigue{
+   font-size: 18px;
+    }
+  }
+
+  @media (max-width: 316px) {
+    .moreno{
+   font-size: 20px;
+    }
+  }
+
+  @media (max-width: 292px) {
+    .tres{
+   font-size: 22px;
+    }
+  }
