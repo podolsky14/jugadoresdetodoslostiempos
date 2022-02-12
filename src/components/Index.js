@@ -752,169 +752,167 @@ otable habilidad en el regate, gran juego aéreo a pesar de su corta estatura y 
         </div></div>
 
             <div className="side py-5">
-
-            <div>
-<tr  className=" pb-3"><h5>JUGADOR POR GENERACIÓN</h5></tr>
-
-<th className="d-flex justify-content-center">1930-34</th>
-<tr className="d-flex justify-content-center">GIUSEPPE MEAZZA (ITA)</tr>
-<tr className="d-flex justify-content-center">MATTHIAS SINDELAR (AUS)</tr>
-<tr className="d-flex justify-content-center">LUIS MONTI (ARG)</tr>
-<tr className="d-flex justify-content-center">RAIMUNDO ORSI (ARG)</tr>
-<tr className="d-flex justify-content-center">GIOVANNI FERRARI (ITA)</tr>
+ <div>
+        <tr  className=" pb-3"><h5>JUGADOR POR GENERACIÓN</h5></tr>
+.<th className="d-flex justify-content-center">1930-34</th>
+.<tr className="d-flex justify-content-center">GIUSEPPE MEAZZA (ITA)</tr>
+.<tr className="d-flex justify-content-center">MATTHIAS SINDELAR (AUS)</tr>
+.<tr className="d-flex justify-content-center">LUIS MONTI (ARG)</tr>
+.<tr className="d-flex justify-content-center">RAIMUNDO ORSI (ARG)</tr>
+.<tr className="d-flex justify-content-center">GIOVANNI FERRARI (ITA)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1935-39</th>
-<tr>GYORGY SÁROSI (HUN)</tr>
-<tr>ARSENIO ERICO (PAR)</tr>
-<tr>SILVIO PIOLA (ITA)</tr>
-<tr>GYULA ZSENGELLER (HUN)</tr>
-<tr>LEÓNIDAS (BRA)</tr>
+.<th className="d-flex justify-content-center">1935-39</th>
+.<tr className="d-flex justify-content-center">GYORGY SÁROSI (HUN)</tr>
+.<tr className="d-flex justify-content-center">ARSENIO ERICO (PAR)</tr>
+.<tr className="d-flex justify-content-center">SILVIO PIOLA (ITA)</tr>
+.<tr className="d-flex justify-content-center">GYULA ZSENGELLER (HUN)</tr>
+.<tr className="d-flex justify-content-center">LEÓNIDAS (BRA)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1940-44</th>
-<tr>JOSÉ MANUEL MORENO (ARG)</tr>
-<tr>ADOLFO PEDERNERA (ARG)</tr>
-<tr>JOSEF BICAN (AUS)</tr>
-<tr>ANTONIO SASTRE (ARG)</tr>
-<tr>ATILIO GARCIA (URU)</tr>
+.<th className="d-flex justify-content-center">1940-44</th>
+.<tr className="d-flex justify-content-center">JOSÉ MANUEL MORENO (ARG)</tr>
+.<tr className="d-flex justify-content-center">ADOLFO PEDERNERA (ARG)</tr>
+.<tr className="d-flex justify-content-center">JOSEF BICAN (AUS)</tr>
+.<tr className="d-flex justify-content-center">ANTONIO SASTRE (ARG)</tr>
+.<tr className="d-flex justify-content-center">ATILIO GARCIA (URU)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1945-49</th>
-<tr>ZIZINHO (BRA)</tr>
-<tr>STANLEY MATTHEWS (ING)</tr>
-<tr>VALENTINO MAZZOLA (ITA)</tr>
-<tr>ADEMIR (BRA)</tr>
-<tr>NORBERTO MENDEZ (ARG)</tr>
+.<th className="d-flex justify-content-center">1945-49</th>
+.<tr className="d-flex justify-content-center">ZIZINHO (BRA)</tr>
+.<tr className="d-flex justify-content-center">STANLEY MATTHEWS (ING)</tr>
+.<tr className="d-flex justify-content-center">VALENTINO MAZZOLA (ITA)</tr>
+.<tr className="d-flex justify-content-center">ADEMIR (BRA)</tr>
+.<tr className="d-flex justify-content-center">NORBERTO MENDEZ (ARG)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1950-54</th>
-<tr>FERENC PUSKÁS (HUN)</tr>
-<tr>FRITZ WALTER (URU)</tr>
-<tr>JUAN ALBERTO SCHIAFFINO (URU)</tr>
-<tr>GYULA BOZSIK (HUN)</tr>
-<tr>GUNNAR NORDAHL (SUE)</tr>
+.<th className="d-flex justify-content-center">1950-54</th>
+.<tr className="d-flex justify-content-center">FERENC PUSKÁS (HUN)</tr>
+.<tr className="d-flex justify-content-center">FRITZ WALTER (URU)</tr>
+.<tr className="d-flex justify-content-center">JUAN ALBERTO SCHIAFFINO (URU)</tr>
+.<tr className="d-flex justify-content-center">GYULA BOZSIK (HUN)</tr>
+.<tr className="d-flex justify-content-center">GUNNAR NORDAHL (SUE)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1955-59</th>
-<tr>ALFREDO DI STÉFANO (ARG)</tr>
-<tr>DIDÍ (BRA)</tr>
-<tr>PELÉ (BRA)</tr>
-<tr>RAYMOND KOPA (FRA)</tr>
-<tr>FRANCISCO GENTO (ESP)</tr>
+.<th className="d-flex justify-content-center">1955-59</th>
+.<tr className="d-flex justify-content-center">ALFREDO DI STÉFANO (ARG)</tr>
+.<tr className="d-flex justify-content-center">DIDÍ (BRA)</tr>
+.<tr className="d-flex justify-content-center">PELÉ (BRA)</tr>
+.<tr className="d-flex justify-content-center">RAYMOND KOPA (FRA)</tr>
+.<tr className="d-flex justify-content-center">FRANCISCO GENTO (ESP)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1960-64</th>
-<tr>PELÉ (BRA)</tr>
-<tr>GARRINCHA (BRA)</tr>
-<tr>LEV YASHIN (URSS)</tr>
-<tr>LUIS SUAREZ (ESP)</tr>
-<tr>UWE SEELER (ALE)</tr>
+.<th className="d-flex justify-content-center">1960-64</th>
+.<tr className="d-flex justify-content-center">PELÉ (BRA)</tr>
+.<tr className="d-flex justify-content-center">GARRINCHA (BRA)</tr>
+.<tr className="d-flex justify-content-center">LEV YASHIN (URSS)</tr>
+.<tr className="d-flex justify-content-center">LUIS SUAREZ (ESP)</tr>
+.<tr className="d-flex justify-content-center">UWE SEELER (ALE)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1965-69</th>
-<tr>EUSEBIO (POR)</tr>
-<tr>PELÉ (BRA)</tr>
-<tr>BOBBY CHARLTON (ING)</tr>
-<tr>GEORGE BEST (IRN)</tr>
-<tr>GIANNI RIVERA (ITA)</tr>
+.<th className="d-flex justify-content-center">1965-69</th>
+.<tr className="d-flex justify-content-center">EUSEBIO (POR)</tr>
+.<tr className="d-flex justify-content-center">PELÉ (BRA)</tr>
+.<tr className="d-flex justify-content-center">BOBBY CHARLTON (ING)</tr>
+.<tr className="d-flex justify-content-center">GEORGE BEST (IRN)</tr>
+.<tr className="d-flex justify-content-center">GIANNI RIVERA (ITA)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1970-74</th>
-<tr>JOHAN CRUYFF (HOL)</tr>
-<tr>FRANZ BECKENBAUER (ALE)</tr>
-<tr>GERD MULLER (ALE)</tr>
-<tr>ROBERTO RIVELINO (BRA)</tr>
-<tr>JAIRZINHO (BRA)</tr>
+.<th className="d-flex justify-content-center">1970-74</th>
+.<tr className="d-flex justify-content-center">JOHAN CRUYFF (HOL)</tr>
+.<tr className="d-flex justify-content-center">FRANZ BECKENBAUER (ALE)</tr>
+.<tr className="d-flex justify-content-center">GERD MULLER (ALE)</tr>
+.<tr className="d-flex justify-content-center">ROBERTO RIVELINO (BRA)</tr>
+.<tr className="d-flex justify-content-center">JAIRZINHO (BRA)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1975-79</th>
-<tr>MARIO KEMPES (ARG)</tr>
-<tr>DANIEL PASSARELLA (ARG)</tr>
-<tr>KEVIN KEEGAN (ING)</tr>
-<tr>ROB RENSENBRINK (HOL)</tr>
-<tr>OLEG BLOCKIN (URSS)</tr>
+.<th className="d-flex justify-content-center">1975-79</th>
+.<tr className="d-flex justify-content-center">MARIO KEMPES (ARG)</tr>
+.<tr className="d-flex justify-content-center">DANIEL PASSARELLA (ARG)</tr>
+.<tr className="d-flex justify-content-center">KEVIN KEEGAN (ING)</tr>
+.<tr className="d-flex justify-content-center">ROB RENSENBRINK (HOL)</tr>
+.<tr className="d-flex justify-content-center">OLEG BLOCKIN (URSS)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1980-84</th>
-<tr>ZICO (BRA)</tr>
-<tr>MICHEL PLATINI (FRA)</tr>
-<tr>DIEGO MARADONA (ARG)</tr>
-<tr>KARL-HEINZ RUMMENIGGE (ALE)</tr>
-<tr>PAULO ROBERTO FALCAO (BRA)</tr>
+.<th className="d-flex justify-content-center">1980-84</th>
+.<tr className="d-flex justify-content-center">ZICO (BRA)</tr>
+.<tr className="d-flex justify-content-center">MICHEL PLATINI (FRA)</tr>
+.<tr className="d-flex justify-content-center">DIEGO MARADONA (ARG)</tr>
+.<tr className="d-flex justify-content-center">KARL-HEINZ RUMMENIGGE (ALE)</tr>
+.<tr className="d-flex justify-content-center">PAULO ROBERTO FALCAO (BRA)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1985-89</th>
-<tr>DIEGO MARADONA (ARG)</tr>
-<tr>MARCO VAN BASTEN (HOL)</tr>
-<tr>LOTTHAR MATTHAUS (ALE)</tr>
-<tr>RUUD GULLIT (HOL)</tr>
-<tr>FRANK RIJKAARD (HOL)</tr>
+.<th className="d-flex justify-content-center">1985-89</th>
+.<tr className="d-flex justify-content-center">DIEGO MARADONA (ARG)</tr>
+.<tr className="d-flex justify-content-center">MARCO VAN BASTEN (HOL)</tr>
+.<tr className="d-flex justify-content-center">LOTTHAR MATTHAUS (ALE)</tr>
+.<tr className="d-flex justify-content-center">RUUD GULLIT (HOL)</tr>
+.<tr className="d-flex justify-content-center">FRANK RIJKAARD (HOL)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1990-94</th>
-<tr>ROBERTO BAGGIO (ITA)</tr>
-<tr>ROMARIO (BRA)</tr>
-<tr>PAOLO MALDINI (ITA)</tr>
-<tr>FRANCO BARESI (ITA)</tr>
-<tr>MICHAEL LAUDRUP (DIN)</tr>
+.<th className="d-flex justify-content-center">1990-94</th>
+.<tr className="d-flex justify-content-center">ROBERTO BAGGIO (ITA)</tr>
+.<tr className="d-flex justify-content-center">ROMARIO (BRA)</tr>
+.<tr className="d-flex justify-content-center">PAOLO MALDINI (ITA)</tr>
+.<tr className="d-flex justify-content-center">FRANCO BARESI (ITA)</tr>
+.<tr className="d-flex justify-content-center">MICHAEL LAUDRUP (DIN)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>1995-99</th>
-<tr>RONALDO (BRA)</tr>
-<tr>RIVALDO (BRA)</tr>
-<tr>LUIS FIGO (POR)</tr>
-<tr>DENNIS BERGKAMP (HOL)</tr>
-<tr>GABRIEL BATISTUTA (ARG)</tr>
+.<th className="d-flex justify-content-center">1995-99</th>
+.<tr className="d-flex justify-content-center">RONALDO (BRA)</tr>
+.<tr className="d-flex justify-content-center">RIVALDO (BRA)</tr>
+.<tr className="d-flex justify-content-center">LUIS FIGO (POR)</tr>
+.<tr className="d-flex justify-content-center">DENNIS BERGKAMP (HOL)</tr>
+.<tr className="d-flex justify-content-center">GABRIEL BATISTUTA (ARG)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>2000-04</th>
-<tr>ZINEDINE ZIDANE (FRA)</tr>
-<tr>THIERRY HENRY (FRA)</tr>
-<tr>ROBERTO CARLOS (BRA)</tr>
-<tr>PAVEL NEDVED (RCH)</tr>
-<tr>ANDRIY SHEVCHENKO (UCR)</tr>
+.<th className="d-flex justify-content-center">2000-04</th>
+.<tr className="d-flex justify-content-center">ZINEDINE ZIDANE (FRA)</tr>
+.<tr className="d-flex justify-content-center">THIERRY HENRY (FRA)</tr>
+.<tr className="d-flex justify-content-center">ROBERTO CARLOS (BRA)</tr>
+.<tr className="d-flex justify-content-center">PAVEL NEDVED (RCH)</tr>
+.<tr className="d-flex justify-content-center">ANDRIY SHEVCHENKO (UCR)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>2005-09</th>
-<tr>RONALDINHO (BRA)</tr>
-<tr>CRISTIANO RONALDO (POR)</tr>
-<tr>LIONEL MESSI (ARG)</tr>
-<tr>RICARDO KAKÁ (BRA)</tr>
-<tr>STEVEN GERRARD (ING)</tr>
+.<th className="d-flex justify-content-center">2005-09</th>
+.<tr className="d-flex justify-content-center">RONALDINHO (BRA)</tr>
+.<tr className="d-flex justify-content-center">CRISTIANO RONALDO (POR)</tr>
+.<tr className="d-flex justify-content-center">LIONEL MESSI (ARG)</tr>
+.<tr className="d-flex justify-content-center">RICARDO KAKÁ (BRA)</tr>
+.<tr className="d-flex justify-content-center">STEVEN GERRARD (ING)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>2010-14</th>
-<tr>LIONEL MESSI (ARG)</tr>
-<tr>CRISTIANO RONALDO (POR)</tr>
-<tr>ANDRÉS INIESTA (ESP)</tr>
-<tr>XAVI HERNÁNDEZ (ESP)</tr>
-<tr>ARJEN ROBBEN (HOL)</tr>
+.<th className="d-flex justify-content-center">2010-14</th>
+.<tr className="d-flex justify-content-center">LIONEL MESSI (ARG)</tr>
+.<tr className="d-flex justify-content-center">CRISTIANO RONALDO (POR)</tr>
+.<tr className="d-flex justify-content-center">ANDRÉS INIESTA (ESP)</tr>
+.<tr className="d-flex justify-content-center">XAVI HERNÁNDEZ (ESP)</tr>
+.<tr className="d-flex justify-content-center">ARJEN ROBBEN (HOL)</tr>
 </div>
 
 <div className="d-flex flex-column align-items-center pb-5">
-<th>2015-19</th>
-<tr>LIONEL MESSI (ARG)</tr>
-<tr>CRISTIANO RONALDO (POR)</tr>
-<tr>NEYMAR (BRA)</tr>
-<tr>LUKA MODRIC (CRO)</tr>
-<tr>EDEN HAZARD (BEL)</tr>
+.<th className="d-flex justify-content-center">2015-19</th>
+.<tr className="d-flex justify-content-center">LIONEL MESSI (ARG)</tr>
+.<tr className="d-flex justify-content-center">CRISTIANO RONALDO (POR)</tr>
+.<tr className="d-flex justify-content-center">NEYMAR (BRA)</tr>
+.<tr className="d-flex justify-content-center">LUKA MODRIC (CRO)</tr>
+.<tr className="d-flex justify-content-center">EDEN HAZARD (BEL)</tr>
 </div>
 
 
