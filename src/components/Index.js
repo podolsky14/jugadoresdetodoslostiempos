@@ -755,7 +755,7 @@ otable habilidad en el regate, gran juego aéreo a pesar de su corta estatura y 
 
         <tr  className="d-flex justify-content-center"><h5>JUGADOR POR GENERACIÓN</h5></tr>
         
- <div className="d-flex flex-column align-items-center py-5">       
+ <div className=" py-5">       
 .<th className="d-flex justify-content-center">1930-34</th>
 .<tr className="d-flex justify-content-center">GIUSEPPE MEAZZA (ITA)</tr>
 .<tr className="d-flex justify-content-center">MATTHIAS SINDELAR (AUS)</tr>
