@@ -43,6 +43,10 @@
   .bordelista{
      border-bottom: 1px solid white
   }
+  
+  .side{
+  border-left: none
+}
 
 
 }
